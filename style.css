@@ -8,6 +8,8 @@ canvas {
 }
 
 body {
+  gap:2px;
+  flex-direction: column;
   height: 100vh;
   display: flex;
   justify-content: center;
